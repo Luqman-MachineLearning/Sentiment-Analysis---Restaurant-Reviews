@@ -8,7 +8,10 @@ This project focuses on building a machine learning model to classify restaurant
 The dataset contains textual reviews labeled based on sentiment, and the model learns patterns from these reviews to predict sentiment for unseen data.
 
 ---
+## 📁 Files
 
+- 📊 [Reviews](./Restaurant_Reviews.tsv)
+- 📓 [Notebook](./Sentiment%20Analysis%20of%20Restaurant%20Reviews.ipynb)
 
 
 ---
