@@ -10,8 +10,8 @@ The dataset contains textual reviews labeled based on sentiment, and the model l
 ---
 ## 📁 Files
 
-- 📊 [Reviews](./Restaurant_Reviews.tsv)
-- 📓 [Notebook](./Sentiment%20Analysis%20of%20Restaurant%20Reviews.ipynb)
+- 📊 [People who Reviewed](./Restaurant_Reviews.tsv)
+- 📓 [full Notebook code](./Sentiment%20Analysis%20of%20Restaurant%20Reviews.ipynb)
 
 
 ---
